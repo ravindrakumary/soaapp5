@@ -22,4 +22,7 @@
       </persistence-config>
     </mds-config>
   </adf-mds-config>
+  <adf:adf-properties-child xmlns="http://xmlns.oracle.com/adf/config/properties">
+    <adf-property name="adfAppUID" value="soaApp5-6727"/>
+  </adf:adf-properties-child>
 </adf-config>
